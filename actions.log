@@ -1,0 +1,81 @@
+2020-09-03 12:03:26 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 12:03:28 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 12:03:28 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 12:03:28 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:03:28 INFO  pooling:124 - HHH10001001: Connection properties: {}
+2020-09-03 12:03:28 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 12:03:28 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 12:03:29 WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : null
+2020-09-03 12:03:29 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 12:03:29 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 08004
+2020-09-03 12:03:29 ERROR SqlExceptionHelper:142 - Сервер запросил парольную аутентификацию, но пароль не был указан.
+2020-09-03 12:04:20 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 12:04:21 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 12:04:22 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 12:04:22 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:04:22 INFO  pooling:124 - HHH10001001: Connection properties: {}
+2020-09-03 12:04:22 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 12:04:22 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 12:04:22 WARN  JdbcEnvironmentInitiator:132 - HHH000342: Could not obtain connection to query metadata : null
+2020-09-03 12:04:22 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 12:04:22 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 08004
+2020-09-03 12:04:22 ERROR SqlExceptionHelper:142 - Сервер запросил парольную аутентификацию, но пароль не был указан.
+2020-09-03 12:06:16 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 12:06:17 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 12:06:18 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 12:06:18 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:06:18 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=postgres}
+2020-09-03 12:06:18 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 12:06:18 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 12:06:18 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 12:06:20 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@6d11ceef] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-09-03 12:06:20 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2020-09-03 12:06:20 WARN  SqlExceptionHelper:231 - ограничение "uk_sx468g52bpetvlad2j9y0lptc" в таблице "users" не существует, пропускается
+2020-09-03 12:06:20 WARN  SqlExceptionHelper:230 - SQL Warning Code: 0, SQLState: 00000
+2020-09-03 12:06:20 WARN  SqlExceptionHelper:231 - ограничение "uk_9q63snka3mdh91as4io72espi" в таблице "users" не существует, пропускается
+2020-09-03 12:06:49 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 42601
+2020-09-03 12:06:49 ERROR SqlExceptionHelper:142 - ОШИБКА: ошибка синтаксиса (примерное положение: "from")
+  Позиция: 1
+2020-09-03 12:06:49 INFO  pooling:418 - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:08:12 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 12:08:13 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 12:08:14 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 12:08:14 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:08:14 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=postgres}
+2020-09-03 12:08:14 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 12:08:14 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 12:08:14 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 12:08:16 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2e869098] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-09-03 12:08:25 WARN  SqlExceptionHelper:137 - SQL Error: 0, SQLState: 42703
+2020-09-03 12:08:25 ERROR SqlExceptionHelper:142 - ОШИБКА: столбец "username" не существует
+  Позиция: 27
+2020-09-03 12:08:25 INFO  pooling:418 - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:11:46 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 12:11:47 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 12:11:48 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 12:11:48 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:11:48 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=postgres}
+2020-09-03 12:11:48 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 12:11:48 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 12:11:49 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 12:11:50 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2e869098] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-09-03 12:11:57 INFO  pooling:418 - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:59:32 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 12:59:33 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 12:59:34 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 12:59:34 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 12:59:34 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=postgres}
+2020-09-03 12:59:34 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 12:59:34 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 12:59:35 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 12:59:37 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2e869098] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-09-03 13:02:22 INFO  Version:44 - HHH000412: Hibernate ORM core version 5.4.15.Final
+2020-09-03 13:02:24 INFO  Version:49 - HCANN000001: Hibernate Commons Annotations {5.1.0.Final}
+2020-09-03 13:02:25 WARN  pooling:72 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+2020-09-03 13:02:25 INFO  pooling:115 - HHH10001005: using driver [org.postgresql.Driver] at URL [jdbc:postgresql://localhost:5432/finance_controller_db]
+2020-09-03 13:02:25 INFO  pooling:124 - HHH10001001: Connection properties: {password=****, user=postgres}
+2020-09-03 13:02:25 INFO  pooling:129 - HHH10001003: Autocommit mode: false
+2020-09-03 13:02:25 INFO  DriverManagerConnectionProviderImpl:249 - HHH000115: Hibernate connection pool size: 20 (min=1)
+2020-09-03 13:02:25 INFO  Dialect:172 - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQL10Dialect
+2020-09-03 13:02:27 INFO  access:47 - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2e869098] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2020-09-03 13:02:37 INFO  pooling:418 - HHH10001008: Cleaning up connection pool [jdbc:postgresql://localhost:5432/finance_controller_db]
